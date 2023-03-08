@@ -1,1 +1,1 @@
-# rust module
+# rust-module
